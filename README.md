@@ -4,7 +4,7 @@ A simple Vision-Language Model workflow that analyzes SOC/SIEM dashboard screens
 
 ## Demo
 
-🎥 **Project Demo:** https://
+🎥 **Project Demo:** [AI SOC Threat Assessment Assistant Demo](https://youtu.be/KTNTr53sIlM)
 
 ---
 
